@@ -1,2 +1,3 @@
 # project
-pppppp
+project website on fullstack, AI/ML, IOT, Embedded
+
